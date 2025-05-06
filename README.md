@@ -4,7 +4,7 @@ A visually engaging **circular card layout** built using HTML and CSS. This proj
 
 ## 🔍 Preview
 
-https://kratulhub.github.io/card.html
+https://codesandbox.io/p/sandbox/github/KrAtulHub/HTML-CSS-CardGrill
 
 
 ## 🚀 Features
